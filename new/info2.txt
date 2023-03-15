@@ -1,0 +1,2 @@
+print("I learnt new thing in window batch script")
+print("echo %date%")
